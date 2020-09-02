@@ -12,7 +12,7 @@ public class HelloWorld {
 			System.out.println("Do work.....");
 		}
 		
-		System.out.println("Comment added by Ravi");
+		System.out.println("Comment added directly in gitbug 2/09");
 	}
 
 	
